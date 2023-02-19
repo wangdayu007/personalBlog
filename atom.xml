@@ -3,11 +3,11 @@
   <title>John Doe&#39;s blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wangdayu007.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://wangdayu007.github.io/"/>
   <updated>2022-11-07T08:00:56.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wangdayu007.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo theme cutie v2.x tutorial</title>
-    <link href="http://example.com/2018/02/12/hexo-theme-cutie-v2-tutorial/"/>
-    <id>http://example.com/2018/02/12/hexo-theme-cutie-v2-tutorial/</id>
+    <link href="https://wangdayu007.github.io/2018/02/12/hexo-theme-cutie-v2-tutorial/"/>
+    <id>https://wangdayu007.github.io/2018/02/12/hexo-theme-cutie-v2-tutorial/</id>
     <published>2018-02-11T16:00:00.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -32,21 +32,21 @@
     
     
     
-    <category term="notes" scheme="http://example.com/categories/notes/"/>
+    <category term="notes" scheme="https://wangdayu007.github.io/categories/notes/"/>
     
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://wangdayu007.github.io/tags/hexo/"/>
     
-    <category term="cutie" scheme="http://example.com/tags/cutie/"/>
+    <category term="cutie" scheme="https://wangdayu007.github.io/tags/cutie/"/>
     
-    <category term="tutorial" scheme="http://example.com/tags/tutorial/"/>
+    <category term="tutorial" scheme="https://wangdayu007.github.io/tags/tutorial/"/>
     
   </entry>
   
   <entry>
     <title>Typography and tags</title>
-    <link href="http://example.com/2017/12/20/Typography%20and%20tags/"/>
-    <id>http://example.com/2017/12/20/Typography%20and%20tags/</id>
+    <link href="https://wangdayu007.github.io/2017/12/20/Typography%20and%20tags/"/>
+    <id>https://wangdayu007.github.io/2017/12/20/Typography%20and%20tags/</id>
     <published>2017-12-20T05:51:07.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -61,19 +61,19 @@
     
     
     
-    <category term="notes" scheme="http://example.com/categories/notes/"/>
+    <category term="notes" scheme="https://wangdayu007.github.io/categories/notes/"/>
     
     
-    <category term="typography" scheme="http://example.com/tags/typography/"/>
+    <category term="typography" scheme="https://wangdayu007.github.io/tags/typography/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://wangdayu007.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Images</title>
-    <link href="http://example.com/2013/12/26/images/"/>
-    <id>http://example.com/2013/12/26/images/</id>
+    <link href="https://wangdayu007.github.io/2013/12/26/images/"/>
+    <id>https://wangdayu007.github.io/2013/12/26/images/</id>
     <published>2013-12-26T14:46:49.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -93,8 +93,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2013/12/25/no-title/"/>
-    <id>http://example.com/2013/12/25/no-title/</id>
+    <link href="https://wangdayu007.github.io/2013/12/25/no-title/"/>
+    <id>https://wangdayu007.github.io/2013/12/25/no-title/</id>
     <published>2013-12-25T14:57:49.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -113,8 +113,8 @@
   
   <entry>
     <title>Excerpts</title>
-    <link href="http://example.com/2013/12/25/excerpts/"/>
-    <id>http://example.com/2013/12/25/excerpts/</id>
+    <link href="https://wangdayu007.github.io/2013/12/25/excerpts/"/>
+    <id>https://wangdayu007.github.io/2013/12/25/excerpts/</id>
     <published>2013-12-24T16:23:23.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -130,8 +130,8 @@
   
   <entry>
     <title>Videos</title>
-    <link href="http://example.com/2013/12/25/videos/"/>
-    <id>http://example.com/2013/12/25/videos/</id>
+    <link href="https://wangdayu007.github.io/2013/12/25/videos/"/>
+    <id>https://wangdayu007.github.io/2013/12/25/videos/</id>
     <published>2013-12-24T16:19:15.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -152,8 +152,8 @@
   
   <entry>
     <title>Gallery Post</title>
-    <link href="http://example.com/2013/12/25/gallery-post/"/>
-    <id>http://example.com/2013/12/25/gallery-post/</id>
+    <link href="https://wangdayu007.github.io/2013/12/25/gallery-post/"/>
+    <id>https://wangdayu007.github.io/2013/12/25/gallery-post/</id>
     <published>2013-12-24T16:16:18.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -175,8 +175,8 @@
   
   <entry>
     <title>Tag Plugins</title>
-    <link href="http://example.com/2013/12/25/tag-plugins/"/>
-    <id>http://example.com/2013/12/25/tag-plugins/</id>
+    <link href="https://wangdayu007.github.io/2013/12/25/tag-plugins/"/>
+    <id>https://wangdayu007.github.io/2013/12/25/tag-plugins/</id>
     <published>2013-12-24T16:14:39.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -196,8 +196,8 @@
   
   <entry>
     <title>www.google.com</title>
-    <link href="http://example.com/2013/12/24/link-post-without-title/"/>
-    <id>http://example.com/2013/12/24/link-post-without-title/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/link-post-without-title/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/link-post-without-title/</id>
     <published>2013-12-24T15:44:13.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -216,8 +216,8 @@
   
   <entry>
     <title>日本語テスト</title>
-    <link href="http://example.com/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
-    <id>http://example.com/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
     <published>2013-12-24T15:33:26.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -239,8 +239,8 @@
   
   <entry>
     <title>中文測試</title>
-    <link href="http://example.com/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
-    <id>http://example.com/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</id>
     <published>2013-12-24T15:31:30.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -261,8 +261,8 @@
   
   <entry>
     <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
-    <link href="http://example.com/2013/12/24/long-title/"/>
-    <id>http://example.com/2013/12/24/long-title/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/long-title/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/long-title/</id>
     <published>2013-12-24T15:31:06.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -282,8 +282,8 @@
   
   <entry>
     <title>Categories</title>
-    <link href="http://example.com/2013/12/24/categories/"/>
-    <id>http://example.com/2013/12/24/categories/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/categories/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/categories/</id>
     <published>2013-12-24T15:30:09.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -298,19 +298,19 @@
     
     
     
-    <category term="Foo" scheme="http://example.com/categories/Foo/"/>
+    <category term="Foo" scheme="https://wangdayu007.github.io/categories/Foo/"/>
     
-    <category term="Bar" scheme="http://example.com/categories/Foo/Bar/"/>
+    <category term="Bar" scheme="https://wangdayu007.github.io/categories/Foo/Bar/"/>
     
-    <category term="Baz" scheme="http://example.com/categories/Foo/Bar/Baz/"/>
+    <category term="Baz" scheme="https://wangdayu007.github.io/categories/Foo/Bar/Baz/"/>
     
     
   </entry>
   
   <entry>
     <title>Link Post</title>
-    <link href="http://example.com/2013/12/24/link-post/"/>
-    <id>http://example.com/2013/12/24/link-post/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/link-post/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/link-post/</id>
     <published>2013-12-24T15:30:04.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -330,8 +330,8 @@
   
   <entry>
     <title>Tags</title>
-    <link href="http://example.com/2013/12/24/tags/"/>
-    <id>http://example.com/2013/12/24/tags/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/tags/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/tags/</id>
     <published>2013-12-24T15:29:53.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -346,18 +346,18 @@
     
     
     
-    <category term="Foo" scheme="http://example.com/tags/Foo/"/>
+    <category term="Foo" scheme="https://wangdayu007.github.io/tags/Foo/"/>
     
-    <category term="Bar" scheme="http://example.com/tags/Bar/"/>
+    <category term="Bar" scheme="https://wangdayu007.github.io/tags/Bar/"/>
     
-    <category term="Baz" scheme="http://example.com/tags/Baz/"/>
+    <category term="Baz" scheme="https://wangdayu007.github.io/tags/Baz/"/>
     
   </entry>
   
   <entry>
     <title>Elements</title>
-    <link href="http://example.com/2013/12/24/elements/"/>
-    <id>http://example.com/2013/12/24/elements/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/elements/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/elements/</id>
     <published>2013-12-24T15:29:08.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
@@ -376,8 +376,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2013/12/24/hello-world/"/>
-    <id>http://example.com/2013/12/24/hello-world/</id>
+    <link href="https://wangdayu007.github.io/2013/12/24/hello-world/"/>
+    <id>https://wangdayu007.github.io/2013/12/24/hello-world/</id>
     <published>2013-12-24T09:49:32.000Z</published>
     <updated>2022-11-07T08:00:56.000Z</updated>
     
